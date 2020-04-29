@@ -10,3 +10,6 @@ https://graphviz.org/
 Virtual Desktop  
 Paperspace - https://workstream.paperspace.com/  
 Shadow - https://shadow.tech/  
+
+Bypass Paywall  
+https://bitbucket.org/magnolia1234/bypass-paywalls-chrome-clean/src/master/  
