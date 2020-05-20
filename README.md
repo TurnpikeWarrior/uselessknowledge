@@ -21,3 +21,7 @@ VPS Board - https://www.lowendtalk.com/
 Suitcase - https://github.com/Impedimenta/Suitcase  
 
 Learn Python - https://amymhaddad.com/the-best-resources-to-learn-python-in-2020  
+
+Tailscale - https://tailscale.com/  
+HomelabOS - https://homelabos.com/  
+WireGuardUI  
