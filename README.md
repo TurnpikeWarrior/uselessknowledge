@@ -1,3 +1,6 @@
+##API  
+Weather API - https://www.climacell.co/weather-api/  
+
 Greek Mythology - https://www.theoi.com/  
 Modular Home - https://www.dwellito.com/  
 Nguyen Coffee Supply - https://nguyencoffeesupply.com/  
@@ -33,5 +36,3 @@ Image Scrubber - https://everestpipkin.github.io/image-scrubber/
 Spaceship Generator - https://github.com/a1studmuffin/SpaceshipGenerator  
 
 Making SNES Game - https://drludos.itch.io/yo-yo-shuriken/devlog/147478/making-a-snes-game-in-2020  
-
-
