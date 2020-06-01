@@ -1,38 +1,38 @@
-##API  
+## API  
 Weather API - https://www.climacell.co/weather-api/  
 
+## Mind Mapping  
+https://www.diagram.codes/  
+https://graphviz.org/ 
+
+## Virtual Desktop  
+Paperspace - https://workstream.paperspace.com/  
+Shadow - https://shadow.tech/  
+
+## Tutorial  
+Learn Python - https://amymhaddad.com/the-best-resources-to-learn-python-in-2020  
+
+## Reading/Learning
+Making SNES Game - https://drludos.itch.io/yo-yo-shuriken/devlog/147478/making-a-snes-game-in-2020  
 Greek Mythology - https://www.theoi.com/  
 Modular Home - https://www.dwellito.com/  
 Nguyen Coffee Supply - https://nguyencoffeesupply.com/  
 How To Tell A Story - https://news.microsoft.com/handbook/  
 
-Mind Mapping  
-https://www.diagram.codes/  
-https://graphviz.org/ 
-
-Virtual Desktop  
-Paperspace - https://workstream.paperspace.com/  
-Shadow - https://shadow.tech/  
-
-Bypass Paywall  
-https://bitbucket.org/magnolia1234/bypass-paywalls-chrome-clean/src/master/  
-
-https://www.librarything.com/  
-
-VPS Board - https://www.lowendtalk.com/  
-
-Suitcase - https://github.com/Impedimenta/Suitcase  
-
-Learn Python - https://amymhaddad.com/the-best-resources-to-learn-python-in-2020  
-
-Tailscale - https://tailscale.com/  
-HomelabOS - https://homelabos.com/  
-WireGuardUI - https://github.com/EmbarkStudios/wg-ui  
-
+## Tools 
+Image Scrubber - https://everestpipkin.github.io/image-scrubber/  
+Spaceship Generator - https://github.com/a1studmuffin/SpaceshipGenerator  
 Tools for Better Thinking - https://untools.co/  
 
-Image Scrubber - https://everestpipkin.github.io/image-scrubber/  
+## Privacy Tools
+HomelabOS - https://homelabos.com/  
+WireGuardUI - https://github.com/EmbarkStudios/wg-ui  
+Bypass Paywall - https://bitbucket.org/magnolia1234/bypass-paywalls-chrome-clean/src/master/  
+Suitcase - https://github.com/Impedimenta/Suitcase  
+Tailscale - https://tailscale.com/  
 
-Spaceship Generator - https://github.com/a1studmuffin/SpaceshipGenerator  
+## Search Database  
+LibraryThing - https://www.librarything.com/  
 
-Making SNES Game - https://drludos.itch.io/yo-yo-shuriken/devlog/147478/making-a-snes-game-in-2020  
+## Shopping  
+VPS Board - https://www.lowendtalk.com/  
