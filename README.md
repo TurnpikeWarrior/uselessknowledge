@@ -1,5 +1,23 @@
+[Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
+
 ## API  
 Weather API - https://www.climacell.co/weather-api/  
+
+## Tools 
+Image Scrubber - https://everestpipkin.github.io/image-scrubber/  
+Spaceship Generator - https://github.com/a1studmuffin/SpaceshipGenerator  
+Tools for Better Thinking - https://untools.co/  
+Have I Been Pwned Check - https://haveibeenpwned.com/  
+
+## Privacy Tools
+HomelabOS - https://homelabos.com/  
+WireGuardUI - https://github.com/EmbarkStudios/wg-ui  
+Bypass Paywall - https://bitbucket.org/magnolia1234/bypass-paywalls-chrome-clean/src/master/  
+Suitcase - https://github.com/Impedimenta/Suitcase  
+Tailscale - https://tailscale.com/  
+
+## Search Database  
+LibraryThing - https://www.librarything.com/  
 
 ## Mind Mapping  
 https://www.diagram.codes/  
@@ -18,21 +36,6 @@ Greek Mythology - https://www.theoi.com/
 Modular Home - https://www.dwellito.com/  
 Nguyen Coffee Supply - https://nguyencoffeesupply.com/  
 How To Tell A Story - https://news.microsoft.com/handbook/  
-
-## Tools 
-Image Scrubber - https://everestpipkin.github.io/image-scrubber/  
-Spaceship Generator - https://github.com/a1studmuffin/SpaceshipGenerator  
-Tools for Better Thinking - https://untools.co/  
-
-## Privacy Tools
-HomelabOS - https://homelabos.com/  
-WireGuardUI - https://github.com/EmbarkStudios/wg-ui  
-Bypass Paywall - https://bitbucket.org/magnolia1234/bypass-paywalls-chrome-clean/src/master/  
-Suitcase - https://github.com/Impedimenta/Suitcase  
-Tailscale - https://tailscale.com/  
-
-## Search Database  
-LibraryThing - https://www.librarything.com/  
 
 ## Shopping  
 VPS Board - https://www.lowendtalk.com/  
