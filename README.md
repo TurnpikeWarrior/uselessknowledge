@@ -15,6 +15,7 @@ WireGuardUI - https://github.com/EmbarkStudios/wg-ui
 Bypass Paywall - https://bitbucket.org/magnolia1234/bypass-paywalls-chrome-clean/src/master/  
 Suitcase - https://github.com/Impedimenta/Suitcase  
 Tailscale - https://tailscale.com/  
+Surveillance Self-Defense - https://ssd.eff.org/en  
 
 ### Search Database  
 LibraryThing - https://www.librarything.com/  
