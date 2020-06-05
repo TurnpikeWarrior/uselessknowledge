@@ -8,6 +8,7 @@ Image Scrubber - https://everestpipkin.github.io/image-scrubber/
 Spaceship Generator - https://github.com/a1studmuffin/SpaceshipGenerator  
 Tools for Better Thinking - https://untools.co/  
 Have I Been Pwned Check - https://haveibeenpwned.com/  
+APRS/SMS Gateway - https://smsgte.org/  
 
 ### Privacy Tools
 HomelabOS - https://homelabos.com/  
