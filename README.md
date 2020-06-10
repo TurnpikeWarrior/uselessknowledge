@@ -41,3 +41,5 @@ How To Tell A Story - https://news.microsoft.com/handbook/
 
 ### Shopping  
 VPS Board - https://www.lowendtalk.com/  
+
+BASH Generator - http://bashrcgenerator.com/   
