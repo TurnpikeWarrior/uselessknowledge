@@ -46,3 +46,5 @@ VPS Board - https://www.lowendtalk.com/
 https://acegikmo.com/shapes/  
 
 BASH Generator - http://bashrcgenerator.com/   
+VIM Cheat Sheet - https://vim.rtorr.com/  
+
