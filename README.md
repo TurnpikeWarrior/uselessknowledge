@@ -47,4 +47,4 @@ https://acegikmo.com/shapes/
 
 BASH Generator - http://bashrcgenerator.com/   
 VIM Cheat Sheet - https://vim.rtorr.com/  
-
+LICEcap (Screencap to GIF) - https://www.cockos.com/licecap/  
