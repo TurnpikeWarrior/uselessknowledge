@@ -38,6 +38,7 @@ Greek Mythology - https://www.theoi.com/
 Modular Home - https://www.dwellito.com/  
 Nguyen Coffee Supply - https://nguyencoffeesupply.com/  
 How To Tell A Story - https://news.microsoft.com/handbook/  
+Malware Reverse Engineering Handbook - https://ccdcoe.org/library/publications/malware-reverse-engineering-handbook/  
 
 ### Shopping  
 VPS Board - https://www.lowendtalk.com/  
